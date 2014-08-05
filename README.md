@@ -7,6 +7,6 @@ Simple Todo app for django class
 How to run
 ----------
 
-# pip install django
-# python manage.py syncdb
-# python manage.py runserver
+1. pip install django
+2. python manage.py syncdb
+3. python manage.py runserver
